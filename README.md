@@ -1,4 +1,32 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Lucas Toledo
+
+🎓 **Estudante de Engenharia de Software** na FIAP  
+📚 Atualmente no **segundo semestre do primeiro ano** da faculdade  
+🔞 Tenho 18 anos  
+🗣️ Falo **Português** e **Inglês**
+
+## 🚀 Tecnologias que atuo
+- HTML
+- CSS
+- JavaScript
+- Python
+
+## 📜 Certificados
+Veja todos os meus certificados no meu [LinkedIn](https://www.linkedin.com/in/lucas-toledo-cortonezi-10a851350).
+
+## 🛠️ Projeto Solo
+- **Site institucional para empresa**  
+  Meu primeiro projeto solo, desenvolvido para uma empresa.  
+  [Veja o site publicado](https://lucastoledoc.github.io/aplica-oACCT/)  
+  [Veja o código-fonte]((https://github.com/LucasToledoC/aplica-oACCT))
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/lucas-toledo-cortonezi-10a851350)
+- E-mail: lucastoledc@gmail.com
+
+---
+
+> “Aqui para aprender, colaborar e inovar!” 🚀
 
 <!--
 **LucasToledoC/LucasToledoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
