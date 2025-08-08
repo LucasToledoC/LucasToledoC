@@ -26,7 +26,7 @@ Veja todos os meus certificados no meu [LinkedIn](https://www.linkedin.com/in/lu
 
 ---
 
-> “Quase tudo da pra fazer acontecer, basta esforço e disciplina” 🚀
+> “vamo fazer acontecer, basta esforço e disciplina” 🚀
 
 <!--
 **LucasToledoC/LucasToledoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
